@@ -14,7 +14,7 @@ function App() {
               </p>
             </div>
             <div>
-              <p className="text-[15px] font-[400] text-[#7B879D] leading-7 flex items-center justify-center pt-[19px]  pb-[25px]">
+              <p className="text-[15px] font-[400] text-[#7B879D] leading-7  pt-[19px]  pb-[25px] flex items-center justify-center text-center">
                 Scan the QR code to visit Frontend<br></br> Mentor and take yo
                 ur coding skills<br></br> to the next level
               </p>
