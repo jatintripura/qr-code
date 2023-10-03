@@ -22,13 +22,13 @@ function App() {
           </div>
         </div>
         <div>
-          <p className="text-footer font-footerText text-footerText left-7 pt-[28px]">
+          <p className="text-footer font-[600] text-footerText left-7 pt-[28px]">
             Challenge by
             <span className=" underline">
               <a href="#"> Frontend Mentor</a>
             </span>
             . Coded by
-            <span className="underline">
+            <span className="underline-offset-4">
               <a href="#"> Your Name Here.</a>
             </span>
           </p>
