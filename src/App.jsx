@@ -28,7 +28,7 @@ function App() {
               <a href="#"> Frontend Mentor</a>
             </span>
             . Coded by
-            <span className="underline-offset-4">
+            <span className="underline">
               <a href="#"> Your Name Here.</a>
             </span>
           </p>
