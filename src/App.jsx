@@ -22,7 +22,7 @@ function App() {
           </div>
         </div>
         <div>
-          <p className="text-footer font-[600] text-footerText left-7 pt-[28px]">
+          <p className="text-[#1F3251] font-[600] text-footerText left-7 pt-[28px]">
             Challenge by
             <span className=" underline">
               <a href="#"> Frontend Mentor</a>
