@@ -2,6 +2,10 @@ import quote from "../src/assets/image-qr-code.png";
 function App() {
   return (
     <>
+      <div>
+        test
+        
+      </div>
       <div className="bg-body w-screen h-screen flex items-center justify-center flex-col">
         <div className="w-[315px] h-[884] bg-white rounded-[15px]">
           <div className="p-5">
